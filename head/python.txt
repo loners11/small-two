@@ -1,5 +1,5 @@
 def Sun(a,b):
 	print("你好，陌生人！")
 Sum(1,2)
-hello python
+hello python,you are dog of samll
 hi people
