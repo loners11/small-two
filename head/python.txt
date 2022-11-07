@@ -1,0 +1,4 @@
+def Sun(a,b):
+	print("你好，陌生人！")
+Sum(1,2)
+
